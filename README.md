@@ -1,5 +1,5 @@
 # Regular expression learning with evolutionary testing and repair
-* Code is available in [code][https://github.com/fmselab/evo_regexp_learn/tree/master/code/]
+* Code is available [here](https://github.com/fmselab/evo_regexp_learn/tree/master/code/)
 * Benchmarks are available [here](https://github.com/fmselab/evo_regexp_learn/tree/master/benchmarks)
 * Experimetal results are available [here](https://github.com/fmselab/evo_regexp_learn/tree/master/experimentalResults)
 
