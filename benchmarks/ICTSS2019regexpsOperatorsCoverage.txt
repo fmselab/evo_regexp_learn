@@ -1,0 +1,3 @@
+Benchmark	Union	Concatenation	Intersection	Repeat	Complement	Char	Wildcards
+Bench	161	162	8	93	8	84	9
+MutBench	562	414	15	292	48	251	27
