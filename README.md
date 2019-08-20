@@ -10,4 +10,4 @@
 
 # Paper
 
-Arcaini P., Gargantini A., Riccobene E. Regular expression learning with evolutionary testing and repair. In Proceedings of IFI-ICTSS 2019 (to appear)
+[P. Arcaini](http://group-mmm.org/~arcaini/), [A. Gargantini](http://cs.unibg.it/gargantini/), [E. Riccobene](https://homes.di.unimi.it/riccobene/) Regular expression learning with evolutionary testing and repair. In Proceedings of IFI-ICTSS 2019 (to appear)
