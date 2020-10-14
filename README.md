@@ -10,4 +10,4 @@
 
 # Paper
 
-[P. Arcaini](http://group-mmm.org/~arcaini/), [A. Gargantini](http://cs.unibg.it/gargantini/), [E. Riccobene](https://homes.di.unimi.it/riccobene/) Regular expression learning with evolutionary testing and repair. In Proceedings of IFI-ICTSS 2019 (to appear)
+[P. Arcaini](http://group-mmm.org/~arcaini/), [A. Gargantini](http://cs.unibg.it/gargantini/), [E. Riccobene](https://homes.di.unimi.it/riccobene/) Regular expression learning with evolutionary testing and repair. In Proceedings of IFIP-ICTSS 2019. [[pdf](https://cs.unibg.it/gargantini/research/papers/ea_regexrep_ICTSS2019.pdf)], [[doi](https://link.springer.com/chapter/10.1007/978-3-030-31280-0_2)]
